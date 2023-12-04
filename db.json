@@ -26,35 +26,35 @@
       "name": "Tháng năm",
       "singer": "Soobin Hoàng Sơn",
       "path": "./assets/music/ThangNam.mp3",
-      "img": "./assets/img/ThangNam.png"
+      "img": "./assets/img/ThangNam.jpg"
     },
     {
       "id": 5,
       "name": "Sinh ra đã là thứ đối lập nhau",
       "singer": "Emcee L (Da LAB) ft. Badbies",
       "path": "./assets/music/SinhRaDaLaThuDoiLapNhau.mp3",
-      "img": "./assets/img/SinhRaDaLaThuDoiLapNhau.png"
+      "img": "./assets/img/SinhRaDaLaThuDoiLapNhau.jpg"
     },
     {
       "id": 6,
       "name": "Nàng thơ",
       "singer": "Hoàng Dũng",
       "path": "./assets/music/NangTho.mp3",
-      "img": "./assets/img/NangTho.png"
+      "img": "./assets/img/NangTho.jpg"
     },
     {
       "id": 7,
       "name": "Chờ đợi có đáng sợ",
       "singer": "Andiez",
       "path": "./assets/music/ChoDoiCoDangSo.mp3",
-      "img": "./assets/img/ChoDoiCoDangSo.png"
+      "img": "./assets/img/ChoDoiCoDangSo.jpg"
     },
     {
       "id": 8,
       "name": "Đường tôi chở em về",
       "singer": "buitruonglinh",
       "path": "./assets/music/DuongToiChoEmVe.mp3",
-      "img": "./assets/img/DuongToiChoEmVe.png"
+      "img": "./assets/img/DuongToiChoEmVe.jpg"
     },
     {
       "id": 9,
