@@ -62,6 +62,13 @@
       "singer": "PhucXp",
       "path": "./assets/music/NhuAnhDaThayEm.mp3",
       "img": "./assets/img/NhuAnhDaThayEm.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Có ai thương em như anh",
+      "singer": "Tóc tiên ft. Touliver",
+      "path": "./assets/music/CoAiThuongEmNhuAnh.mp3",
+      "img": "./assets/img/CoAiThuongEmNhuAnh.jpg"
     }
   ]
 }
