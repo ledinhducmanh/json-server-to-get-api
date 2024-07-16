@@ -74,57 +74,73 @@
   "sbin-support": [
     {
       "id": 1,
-      "question": "How do I earn coins on your website?",
-      "answer": "To earn coins, users need to go to an S-Bin trash can, dispose of trash, and scan the code that appears after disposal. Each successful scan rewards a certain amount of coins.",
-      "image": "../assets/img/background/example.png"
+      "question": "What does your website do?",
+      "answer": "Our website helps users earn reward codes by using coins. Users can earn coins by going to an S-Bin trash can, disposing of trash, and scanning a code that appears afterwards.",
+      "image": "../assets/img/background/example.png",
+      "alt": "User scanning code at S-Bin"
     },
     {
       "id": 2,
-      "question": "What can I use coins for?",
-      "answer": "Coins you earn can be used to redeem reward codes on our website. These codes can be for discounts, gifts, or other exciting rewards.",
-      "image": "../assets/img/background/example.png"
+      "question": "How do I earn coins on your website?",
+      "answer": "To earn coins, users need to go to an S-Bin trash can, dispose of trash, and scan the code that appears after disposal. Each successful scan rewards a certain amount of coins.",
+      "image": "../assets/img/background/example.png",
+      "alt": "Coins earned"
     },
     {
       "id": 3,
-      "question": "What do I need to start using the service?",
-      "answer": "You just need to register an account on our website. Then you can go to the nearest S-Bin trash cans to start earning coins.",
-      "image": "../assets/img/background/example.png"
+      "question": "What can I use coins for?",
+      "answer": "Coins you earn can be used to redeem reward codes on our website. These codes can be for discounts, gifts, or other exciting rewards.",
+      "image": "../assets/img/background/example.png",
+      "alt": "Redeem rewards"
     },
     {
       "id": 4,
-      "question": "How many coins can I earn per scan?",
-      "answer": "The number of coins you earn per scan may vary depending on the type of trash and our current policies. Details will be updated on the website.",
-      "image": "../assets/img/background/example.png"
+      "question": "What do I need to start using the service?",
+      "answer": "You just need to register an account on our website. Then you can go to the nearest S-Bin trash cans to start earning coins.",
+      "image": "../assets/img/background/example.png",
+      "alt": "User registration"
     },
     {
       "id": 5,
-      "question": "Can I scan codes from S-Bin trash cans anywhere?",
-      "answer": "You can scan codes from S-Bin trash cans supported by our system. Please check the list of supported locations on our website.",
-      "image": "../assets/img/background/example.png"
+      "question": "How many coins can I earn per scan?",
+      "answer": "The number of coins you earn per scan may vary depending on the type of trash and our current policies. Details will be updated on the website.",
+      "image": "../assets/img/background/example.png",
+      "alt": "Coins per scan"
     },
     {
       "id": 6,
-      "question": "How do I recognize an S-Bin trash can?",
-      "answer": "S-Bin trash cans will have a specific label and instructions on how to scan the code after disposing of trash. You can find detailed information and illustrations on our website.",
-      "image": "../assets/img/background/example.png"
+      "question": "Can I scan codes from S-Bin trash cans anywhere?",
+      "answer": "You can scan codes from S-Bin trash cans supported by our system. Please check the list of supported locations on our website.",
+      "image": "../assets/img/background/example.png",
+      "alt": "Supported locations"
     },
     {
       "id": 7,
-      "question": "What should I do if the code scan fails?",
-      "answer": "If you encounter an issue while scanning the code, please check your internet connection and ensure you followed the instructions correctly. If the problem persists, please contact our customer support for assistance.",
-      "image": "../assets/img/background/example.png"
+      "question": "How do I recognize an S-Bin trash can?",
+      "answer": "S-Bin trash cans will have a specific label and instructions on how to scan the code after disposing of trash. You can find detailed information and illustrations on our website.",
+      "image": "../assets/img/background/example.png",
+      "alt": "S-Bin trash can"
     },
     {
       "id": 8,
-      "question": "Is there a limit on the number of scans per day?",
-      "answer": "There may be a limit on the number of scans per day to ensure fairness and sustainability of the system. Please check our website for more details.",
-      "image": "../assets/img/background/example.png"
+      "question": "What should I do if the code scan fails?",
+      "answer": "If you encounter an issue while scanning the code, please check your internet connection and ensure you followed the instructions correctly. If the problem persists, please contact our customer support for assistance.",
+      "image": "../assets/img/background/example.png",
+      "alt": "Scan fail support"
     },
     {
       "id": 9,
+      "question": "Is there a limit on the number of scans per day?",
+      "answer": "There may be a limit on the number of scans per day to ensure fairness and sustainability of the system. Please check our website for more details.",
+      "image": "../assets/img/background/example.png",
+      "alt": "Daily scan limit"
+    },
+    {
+      "id": 10,
       "question": "How do I redeem rewards with the coins I've earned?",
       "answer": "Once you've accumulated enough coins, you can go to the 'Redeem Rewards' section on our website, select your desired reward, and follow the steps to redeem it.",
-      "image": "../assets/img/background/example.png"
+      "image": "../assets/img/background/example.png",
+      "alt": "Redeem process"
     }
   ]
 }
