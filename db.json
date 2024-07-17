@@ -147,7 +147,8 @@
     {
       "id": 1,
       "name": "Lê Mạnh",
-      "message": "This is the first massage bro"
+      "message": "This is the first massage bro",
+      "date": "12:30"
     }
   ]
 }
